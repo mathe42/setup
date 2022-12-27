@@ -22,7 +22,8 @@ VSCode Settings
         "xdebug.php-debug",
         "neilbrayfield.php-docblocker",
         "bmewburn.vscode-intelephense-client",
-        "getpsalm.psalm-vscode-plugin"
+        "getpsalm.psalm-vscode-plugin",
+        "adam-bender.commit-message-editor"
     ]
 }
 ```
