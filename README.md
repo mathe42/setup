@@ -1,3 +1,4 @@
+1. Git https://git-scm.com/download/win
 1. VSCode https://code.visualstudio.com/insiders/
 2. PHP https://windows.php.net/download#php-8.2-ts-vs16-x64
 3. Fira Code https://fonts.google.com/specimen/Fira+Code
@@ -23,7 +24,8 @@ VSCode Settings
         "neilbrayfield.php-docblocker",
         "bmewburn.vscode-intelephense-client",
         "getpsalm.psalm-vscode-plugin",
-        "adam-bender.commit-message-editor"
+        "adam-bender.commit-message-editor",
+        "ms-vscode-remote.remote-ssh"
     ]
 }
 ```
@@ -43,6 +45,16 @@ Config
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace"
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace",
+    "workbench.settings.openDefaultKeybindings": true,
+    "explorer.autoRevealExclude": {
+        "**/vendor": true
+    },
+    "search.exclude": {
+        "**/vendor": true
+    },
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "editor.stickyScroll.enabled": true,
+    "editor.stickyScroll.maxLineCount": 10
 }
 ```
