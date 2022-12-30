@@ -15,7 +15,6 @@
 * Win Terminal https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=de
 * Nice Shell https://ohmyposh.dev/docs/installation/windows
 
-
 VSCode Settings
 .vscode/extensions.json
 ```json
@@ -30,7 +29,8 @@ VSCode Settings
         "bmewburn.vscode-intelephense-client",
         "getpsalm.psalm-vscode-plugin",
         "adam-bender.commit-message-editor",
-        "ms-vscode-remote.remote-ssh"
+        "ms-vscode-remote.remote-ssh",
+        "ms-azuretools.vscode-docker"
     ]
 }
 ```
