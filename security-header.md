@@ -46,3 +46,9 @@ session_set_cookie_params([
 ])
 ```
 
+Dissalow some features:
+```
+Permissions-Policy: document-domain=(),accelerometer=(),ambient-light-sensor=(),autoplay=(),battery=(),camera=(),display-capture=(),encrypted-media=(),execution-while-not-rendered=(),execution-while-out-of-viewport=(),fullscreen=(),gamepad=(),geolocation=(),gyroscope=(),hid=(),idle-detection=(),local-fonts=(),magnetometer=(),microphone=(),midi=(),picture-in-picture=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),speaker-selection=(),usb=(),xr-spatial-tracking=(),payment=(),web-share=()
+```
+Important is document-domain as that reduces isolation-complexity by a lot!
+Some of those options are only in chrome behind a flag!
