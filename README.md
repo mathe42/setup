@@ -28,7 +28,8 @@ VSCode Settings
         "adam-bender.commit-message-editor",
         "ms-vscode-remote.remote-ssh",
         "ms-azuretools.vscode-docker",
-        "ms-vscode-remote.remote-wsl"
+        "ms-vscode-remote.remote-wsl",
+        "firefox-devtools.vscode-firefox-debug"
     ]
 }
 ```
