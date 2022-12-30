@@ -1,14 +1,19 @@
-1. Git https://git-scm.com/download/win
-1. VSCode https://code.visualstudio.com/insiders/
-2. PHP https://windows.php.net/download#php-8.2-ts-vs16-x64
-3. Fira Code https://fonts.google.com/specimen/Fira+Code
-4. Composer https://getcomposer.org/
-5. Volta https://volta.sh/
-6. volta install node
-7. volta install deno
-8. volta install pnpm
-9. volta install yarn
-
+* FF (Nightly) https://www.mozilla.org/de/firefox/channel/desktop/
+* Edge (Canary) https://www.microsoftedgeinsider.com/de-de/download/canary
+* Git https://git-scm.com/download/win
+* VSCode https://code.visualstudio.com/insiders/
+* PHP https://windows.php.net/download#php-8.2-ts-vs16-x64
+* Fira Code https://fonts.google.com/specimen/Fira+Code
+* Composer https://getcomposer.org/
+* Volta https://volta.sh/
+* volta install node
+* volta install deno
+* volta install pnpm
+* volta install yarn
+* Win Subsystem
+* Docker https://docs.docker.com/desktop/install/windows-install/
+* Win Terminal https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=de
+* Nice Shell https://ohmyposh.dev/docs/installation/windows
 
 
 VSCode Settings
