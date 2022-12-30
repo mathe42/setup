@@ -5,12 +5,9 @@
 * PHP https://windows.php.net/download#php-8.2-ts-vs16-x64
 * Fira Code https://fonts.google.com/specimen/Fira+Code
 * Composer https://getcomposer.org/
-* Volta https://volta.sh/
-* volta install node
-* volta install deno
-* volta install pnpm
-* volta install yarn
+* Volta https://volta.sh/ `volta install X` X=node/deno/pnpm/yarn
 * Win Subsystem
+* Ubuntu for Subsystem https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV?hl=de-de&gl=de
 * Docker https://docs.docker.com/desktop/install/windows-install/
 * Win Terminal https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=de
 * Nice Shell https://ohmyposh.dev/docs/installation/windows
