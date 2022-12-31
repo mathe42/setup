@@ -5,6 +5,7 @@
 * PHP https://windows.php.net/download#php-8.2-ts-vs16-x64
 * Fira Code https://fonts.google.com/specimen/Fira+Code
 * Composer https://getcomposer.org/
+* Notepad++ https://notepad-plus-plus.org/downloads/v8.4.8/
 * Volta https://volta.sh/ `volta install X` X=node/deno/pnpm/yarn
 * Win Subsystem
 * Ubuntu for Subsystem https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV?hl=de-de&gl=de
