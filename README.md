@@ -62,6 +62,8 @@ Config
     },
     "debug.console.acceptSuggestionOnEnter": "on",
     "editor.stickyScroll.enabled": true,
-    "editor.stickyScroll.maxLineCount": 10
+    "editor.stickyScroll.maxLineCount": 10,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active"
 }
 ```
