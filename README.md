@@ -32,7 +32,12 @@ VSCode Settings
         "ms-vscode-remote.remote-ssh",
         "ms-azuretools.vscode-docker",
         "ms-vscode-remote.remote-wsl",
-        "firefox-devtools.vscode-firefox-debug"
+        "firefox-devtools.vscode-firefox-debug",
+        "spmeesseman.vscode-taskexplorer",
+        "wayou.vscode-todo-highlight",
+        "chrmarti.regex",
+        "alefragnani.Bookmarks",
+        "johnpapa.vscode-peacock"
     ]
 }
 ```
