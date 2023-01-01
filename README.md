@@ -13,6 +13,7 @@
 * Win Terminal https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=de
 * Nice Shell https://ohmyposh.dev/docs/installation/windows
 * Adobe Acrobat Reader https://get.adobe.com/de/reader/
+* Zeiterfassung https://app.edtime.de/app
 
 
 VSCode Settings
