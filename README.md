@@ -37,7 +37,8 @@ VSCode Settings
         "wayou.vscode-todo-highlight",
         "chrmarti.regex",
         "alefragnani.Bookmarks",
-        "johnpapa.vscode-peacock"
+        "johnpapa.vscode-peacock",
+        "MS-vsliveshare.vsliveshare"
     ]
 }
 ```
